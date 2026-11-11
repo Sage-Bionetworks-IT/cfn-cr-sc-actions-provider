@@ -9,7 +9,7 @@ pytest-mock = "~=3.11"
 requests-mock = "~=1.8"
 pre-commit = "~=4.5"
 aws-sam-cli = "~=1.138"
-awscli = "~=1.25"
+awscli = "~=1.45"
 coverage = "~=7.0"
 
 [packages]
